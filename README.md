@@ -1,4 +1,4 @@
-# EPUSP-Thesis-Template-Word
+# EPUSP Thesis Template for MS Word
 
 MS Word (2013+) document with the template and required placeholders for Thesis and Disserations in [Escola Politécnica da Universidade de São Paulo]( http://www.poli.usp.br). This document follows the [4<sup>th</sup> edition of the guidelines for Thesis and Dissertations]( http://www.poli.usp.br/images/stories/media/download/bibliotecas/DiretrizesTesesDissertacoes.pdf).
 
